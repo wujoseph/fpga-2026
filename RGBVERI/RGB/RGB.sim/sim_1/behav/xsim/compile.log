@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PYNQZ2/RGBVERI/RGB/RGB.srcs/sources_1/new/RGB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RGB
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PYNQZ2/RGBVERI/RGB/RGB.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
