@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Jun  6 19:01:35 2026
+# Process ID: 38592
+# Current directory: D:/PYNQZ2/LEDVHDL/LED/LED.runs/synth_2
+# Command line: vivado.exe -log LED.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source LED.tcl
+# Log file: D:/PYNQZ2/LEDVHDL/LED/LED.runs/synth_2/LED.vds
+# Journal file: D:/PYNQZ2/LEDVHDL/LED/LED.runs/synth_2\vivado.jou
+#-----------------------------------------------------------
+source LED.tcl -notrace

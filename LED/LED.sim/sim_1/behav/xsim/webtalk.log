@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Jun  6 17:56:02 2026
+# Process ID: 45088
+# Current directory: D:/PYNQZ2/LEDVHDL/LED/LED.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/PYNQZ2/LEDVHDL/LED/LED.sim/sim_1/behav/xsim/xsim.dir/LED_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/PYNQZ2/LEDVHDL/LED/LED.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/PYNQZ2/LEDVHDL/LED/LED.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/PYNQZ2/LEDVHDL/LED/LED.sim/sim_1/behav/xsim/xsim.dir/LED_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Sat Jun  6 17:56:03 2026...
